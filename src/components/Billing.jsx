@@ -26,6 +26,8 @@ const Billing = () => (
       </div>
     </div>
   </section>
+
+  //added the comments
 );
 
 export default Billing;
