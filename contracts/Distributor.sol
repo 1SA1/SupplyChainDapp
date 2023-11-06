@@ -31,7 +31,7 @@ contract Distributor {
         supplyChain.withDraw(_amount);
     }
 
-    //Purchase Medicine from Manufacturer
+    //Purchase Medicine from a Manufacturer
     function purchaseMedicine(
         string memory _name,
         uint256 _lotNumber
